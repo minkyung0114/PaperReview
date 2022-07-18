@@ -1,5 +1,9 @@
 ### Resnet
 
+num class :10 </br>
+![image](https://user-images.githubusercontent.com/70430385/179479764-572acfa2-ff6f-47d0-ae7a-019ec83602ab.png)</br>
+![image](https://user-images.githubusercontent.com/70430385/179479882-b55701d6-a1d2-4bb4-b3b9-9c93e20816db.png)</br>
+
 
 ----------------------------------------------------------------</br>
         Layer (type)               Output Shape         Param #</br>
@@ -188,3 +192,5 @@ Forward/backward pass size (MB): 286.55</br>
 Params size (MB): 89.75</br>
 Estimated Total Size (MB): 376.88</br>
 ----------------------------------------------------------------</br>
+
+
